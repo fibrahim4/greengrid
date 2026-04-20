@@ -22,3 +22,5 @@ streamlit run app.py
 
 ## Data Source
 Where the data comes from and why you chose it.
+## Live app
+🔗 Live app: https://greengrid-3wc4agqhxq2asmmn6ji4fn.streamlit.app
