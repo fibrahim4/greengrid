@@ -1,14 +1,17 @@
 # 🌱 GreenGrid
-A short 1-2 sentence description in your own words.
+A data dashboard that tracks renewable energy generation across the U.S., 
+built for FusionHack 2026.
 
 ## The Problem
-Why does renewable energy data matter? Write 2-3 sentences in your own words.
+Most people have no idea how much clean energy their state actually produces. 
+Data exists but it's buried in government databases that nobody looks at. 
+GreenGrid makes that data visual and accessible
 
 ## What GreenGrid Does
-- Screen 1: what it shows
-- Screen 2: what it shows
-- Screen 3: what it shows
-- Screen 4: what it shows
+- National overview: see how much solar, wind, and hydro the U.S. generated in 2023
+- State explorer: pick any state and see its renewable energy breakdown
+- Trend tracker: see how clean energy has grown from 2015 to 2023
+- Impact calculator: see how much CO₂ your state avoided by using renewables
 
 ## Tech Stack
 - Python
